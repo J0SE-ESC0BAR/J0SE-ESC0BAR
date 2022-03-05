@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - `Twitter` : <a href="https://twitter.com/JAEM_Developer">José Escobar</a>
 - `LinkedIn` : <a href="https://www.linkedin.com/in/jos%C3%A9-alfonso-escobar-mej%C3%ADa-15133620b/">José Escobar</a>
 - `Facebook`: Deshabilitado
-- `Email`: <a href="mailto:josealfonsoescobarmejia@gmai.com">josealfonsoescobarmejia@gmai.com</a>
+- `Email`: <a href="mailto:josealfonsoescobarmejia@gmail.com">josealfonsoescobarmejia@gmail.com</a>
   

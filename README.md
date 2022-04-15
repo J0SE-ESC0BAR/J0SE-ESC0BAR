@@ -1,5 +1,5 @@
 # José Alfonso Escobar
-<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hi World 👋</h1>
+<h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align="center"> Hi 👋</h1>
 
 
 Here are some ideas to get you started:

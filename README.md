@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - `LinkedIn` : <a href="https://www.linkedin.com/in/jos%C3%A9-alfonso-escobar-mej%C3%ADa-15133620b/">José Escobar</a>
 - `Facebook`: <a href="https://www.facebook.com/JoseAlonsoEscobarMejia">José Escobar</a>
 - `Email`: <a href="mailto:josealfonsoescobarmejia@gmail.com">josealfonsoescobarmejia@gmail.com</a>
-- `My blog`:  <a href="https://j0se-esc0bar.github.io/My_blog/">https://j0se-esc0bar.github.io/My_blog/</a>
+- `My blog`:  <a href="https://j0se-esc0bar.github.io/My_blog/">https://j0se-esc0bar.github.io/JAEM/</a>
